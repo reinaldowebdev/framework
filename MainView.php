@@ -5,7 +5,7 @@ use Exception;
 
 class MainView
 {
-    const PATH_VIEWS = __DIR__  . '/../../app/Views';
+    const PATH_VIEWS = __DIR__  . '/../../../app/Views';
     const DEFAULT_TEMPLATE = self::PATH_VIEWS . '/templates/main.php';
 
     public $template;
