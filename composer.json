@@ -1,0 +1,7 @@
+{
+    "name": "rei/framework",
+    "description": "Basic framework",
+    "require": {
+        "php": "^7.3"
+    }
+}
